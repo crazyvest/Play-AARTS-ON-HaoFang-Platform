@@ -17,13 +17,13 @@ http://register.bianfeng.com/register/index
 
 # 3. Download the HaoFang App and direction from my Google DRiver.
 https://drive.google.com/open?id=1ssy1nfLHhkvalpB3u4Y88QwiA9-yrB4c  
- -- Haofeng5.9.2Green platform
+  -- Haofeng5.9.2Green platform
 
 https://drive.google.com/open?id=1jqx8r7f6tB569ZRKYqKyxbVCXA3VJ586  
- --Pics Direction
+  --Pics Direction
 
 https://youtu.be/2XygwqhSar4
- --Video Direction
+  --Video Direction
  
  
 # 4. The most popular MOD we are multyplayer-playing.
@@ -37,11 +37,11 @@ http://www.huya.com/2200541688
 http://www.huya.com/g/1481
 
 
-# 6. Register QQ international to  jion the community. Chat with many players and get real time game imformation.
+# 6. Register QQ international to  jion the community. Chat with many players and get real time game information.
 
 a. Please download and install the software "QQ International" to jion the community.
   http://www.imqq.com/English1033.html
 b. Register QQ ID and login in.
-. Search and jion in the QQ A&A players Group. Group ID:719914316
+c. Search and jion in the QQ A&A players Group. Group ID:719914316
 
 
