@@ -15,7 +15,7 @@ http://register.bianfeng.com/register/index
 # 2. Check your confirm Email.
 ![image](https://github.com/crazyvest/Play-AARTS-ON-HaoFang-Platform/blob/master/Pic/Regisger2.png?raw=true)
 
-# 3. Download the HaoFang App and direction from my Google DRiver.
+# 3. Download the HaoFang Game App and direction from GitHub Raw or Google DRiver.
 https://drive.google.com/open?id=1ssy1nfLHhkvalpB3u4Y88QwiA9-yrB4c  
   -- Haofeng5.9.2Green platform
 
