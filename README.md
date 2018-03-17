@@ -1,5 +1,5 @@
 # Play AARTS ON HaoFang Platform
-This is the direction to play multiplayer virsual-LAN game on HaoFang platform from China. 
+This is the direction to play multiplayer virtual-LAN game on HaoFang platform from China. 
 
 ---------------------------------
 # Fix AA Crashed On Windows vista/7/8.1/10
